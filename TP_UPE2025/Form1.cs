@@ -18,7 +18,7 @@ namespace TP_UPE2025
 
         private void btn_LogIn_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("LOGIN BOTON");
+            MessageBox.Show("LOGIN button");
         }
     }
 }
